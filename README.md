@@ -39,3 +39,24 @@
 - Phase 7: FE Construction
 - Phase 8: Integration
 - Phase 9: Testing 
+
+
+## Setup Instructions ESPN Fantasy API
+
+1. Open terminal and go to the subfolder (e.g., espn_api).
+2. Create venv (only once):
+   python -m venv venv
+3. Activate venv:
+   .\venv\Scripts\Activate.ps1
+   (If permission error, run: Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned)
+4. Install dependencies:
+   pip install -r requirements.txt
+5. Run the script:
+   python script.py
+6. Deactivate venv when done:
+   deactivate
+
+# Alternatively, run without activating:
+.\venv\Scripts\python script.py
+
+This keeps Python packages isolated inside the subfolder.

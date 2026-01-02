@@ -1,0 +1,245 @@
+{
+    "base_no_views.json": {
+        "owner_names": true,
+        "owner_first_last_names": false,
+        "owner_profile_pics": false,
+        "team_records": false,
+        "win_rate": false,
+        "streak": false,
+        "rosters": false,
+        "player_ids": false,
+        "player_names": false,
+        "team_logos": false,
+        "team_names": false,
+        "matchup_scores": false,
+        "sample_data": {
+            "member_example": {
+                "displayName": "ESPNFAN8963221637",
+                "firstName": null,
+                "lastName": null
+            }
+        }
+    },
+    "view_mTeam.json": {
+        "owner_names": true,
+        "owner_first_last_names": true,
+        "owner_profile_pics": false,
+        "team_records": true,
+        "win_rate": true,
+        "streak": true,
+        "rosters": false,
+        "player_ids": false,
+        "player_names": false,
+        "team_logos": true,
+        "team_names": true,
+        "matchup_scores": false,
+        "sample_data": {
+            "member_example": {
+                "displayName": "ESPNFAN8963221637",
+                "firstName": "Noah",
+                "lastName": "Daniel"
+            },
+            "record_example": {
+                "wins": 7,
+                "losses": 7,
+                "ties": 0,
+                "percentage": 0.5,
+                "streakType": "WIN",
+                "streakLength": 3
+            }
+        }
+    },
+    "view_mRoster.json": {
+        "owner_names": false,
+        "owner_first_last_names": false,
+        "owner_profile_pics": false,
+        "team_records": false,
+        "win_rate": false,
+        "streak": false,
+        "rosters": true,
+        "player_ids": true,
+        "player_names": true,
+        "team_logos": false,
+        "team_names": false,
+        "matchup_scores": false,
+        "sample_data": {
+            "player_example": {
+                "playerId": 4432665,
+                "fullName": "Brock Bowers",
+                "firstName": "Brock",
+                "lastName": "Bowers"
+            }
+        }
+    },
+    "view_mMatchup.json": {
+        "owner_names": false,
+        "owner_first_last_names": false,
+        "owner_profile_pics": false,
+        "team_records": false,
+        "win_rate": false,
+        "streak": false,
+        "rosters": true,
+        "player_ids": true,
+        "player_names": true,
+        "team_logos": false,
+        "team_names": false,
+        "matchup_scores": true,
+        "sample_data": {
+            "player_example": {
+                "playerId": 4432665,
+                "fullName": "Brock Bowers",
+                "firstName": "Brock",
+                "lastName": "Bowers"
+            },
+            "matchup_example": {
+                "home_teamId": 2,
+                "home_totalPoints": 126.16,
+                "away_teamId": 7,
+                "away_totalPoints": 77.94,
+                "winner": "HOME"
+            }
+        }
+    },
+    "view_mMatchupScore.json": {
+        "owner_names": false,
+        "owner_first_last_names": false,
+        "owner_profile_pics": false,
+        "team_records": false,
+        "win_rate": false,
+        "streak": false,
+        "rosters": false,
+        "player_ids": false,
+        "player_names": false,
+        "team_logos": false,
+        "team_names": false,
+        "matchup_scores": true,
+        "sample_data": {
+            "matchup_example": {
+                "home_teamId": 2,
+                "home_totalPoints": 126.16,
+                "away_teamId": 7,
+                "away_totalPoints": 77.94,
+                "winner": "HOME"
+            }
+        }
+    },
+    "combined_team_roster.json": {
+        "owner_names": true,
+        "owner_first_last_names": true,
+        "owner_profile_pics": false,
+        "team_records": true,
+        "win_rate": true,
+        "streak": true,
+        "rosters": true,
+        "player_ids": true,
+        "player_names": true,
+        "team_logos": true,
+        "team_names": true,
+        "matchup_scores": false,
+        "sample_data": {
+            "member_example": {
+                "displayName": "ESPNFAN8963221637",
+                "firstName": "Noah",
+                "lastName": "Daniel"
+            },
+            "record_example": {
+                "wins": 7,
+                "losses": 7,
+                "ties": 0,
+                "percentage": 0.5,
+                "streakType": "WIN",
+                "streakLength": 3
+            },
+            "player_example": {
+                "playerId": 4432665,
+                "fullName": "Brock Bowers",
+                "firstName": "Brock",
+                "lastName": "Bowers"
+            }
+        }
+    },
+    "combined_team_roster_standings.json": {
+        "owner_names": true,
+        "owner_first_last_names": true,
+        "owner_profile_pics": false,
+        "team_records": true,
+        "win_rate": true,
+        "streak": true,
+        "rosters": true,
+        "player_ids": true,
+        "player_names": true,
+        "team_logos": true,
+        "team_names": true,
+        "matchup_scores": true,
+        "sample_data": {
+            "member_example": {
+                "displayName": "ESPNFAN8963221637",
+                "firstName": "Noah",
+                "lastName": "Daniel"
+            },
+            "record_example": {
+                "wins": 7,
+                "losses": 7,
+                "ties": 0,
+                "percentage": 0.5,
+                "streakType": "WIN",
+                "streakLength": 3
+            },
+            "player_example": {
+                "playerId": 4432665,
+                "fullName": "Brock Bowers",
+                "firstName": "Brock",
+                "lastName": "Bowers"
+            },
+            "matchup_example": {
+                "home_teamId": 2,
+                "home_totalPoints": 126.16,
+                "away_teamId": 7,
+                "away_totalPoints": 77.94,
+                "winner": null
+            }
+        }
+    },
+    "full_combined.json": {
+        "owner_names": true,
+        "owner_first_last_names": true,
+        "owner_profile_pics": false,
+        "team_records": true,
+        "win_rate": true,
+        "streak": true,
+        "rosters": true,
+        "player_ids": true,
+        "player_names": true,
+        "team_logos": true,
+        "team_names": true,
+        "matchup_scores": true,
+        "sample_data": {
+            "member_example": {
+                "displayName": "ESPNFAN8963221637",
+                "firstName": "Noah",
+                "lastName": "Daniel"
+            },
+            "record_example": {
+                "wins": 7,
+                "losses": 7,
+                "ties": 0,
+                "percentage": 0.5,
+                "streakType": "WIN",
+                "streakLength": 3
+            },
+            "player_example": {
+                "playerId": 4432665,
+                "fullName": "Brock Bowers",
+                "firstName": "Brock",
+                "lastName": "Bowers"
+            },
+            "matchup_example": {
+                "home_teamId": 2,
+                "home_totalPoints": 126.16,
+                "away_teamId": 7,
+                "away_totalPoints": 77.94,
+                "winner": "HOME"
+            }
+        }
+    }
+}

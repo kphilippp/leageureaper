@@ -1,0 +1,163 @@
+{
+    "gameId": 1,
+    "id": 564613067,
+    "members": [
+        {
+            "displayName": "ESPNFAN8963221637",
+            "id": "{1F7B1B18-9CAB-4BEA-8FFB-B17A80FE157C}",
+            "isLeagueManager": false
+        },
+        {
+            "displayName": "AdamMatt6",
+            "id": "{5A488620-01B4-4CF3-B5BB-96C4FD37DED9}",
+            "isLeagueManager": false
+        },
+        {
+            "displayName": "ESPNfan6319703923",
+            "id": "{5CD97C45-69A1-43FE-996D-C3528E0C564D}",
+            "isLeagueManager": false
+        },
+        {
+            "displayName": "espnfan4977240100",
+            "id": "{7805A62E-2B25-45D7-B2E2-BE9D0CAAF8CB}",
+            "isLeagueManager": false
+        },
+        {
+            "displayName": "espnfan5474312026",
+            "id": "{8E29E542-0973-4071-BA75-43BF0D537085}",
+            "isLeagueManager": false
+        },
+        {
+            "displayName": "ESPNFAN2013252092",
+            "id": "{8E66E33A-49CE-4CD7-A2E9-DF31477E6045}",
+            "isLeagueManager": false
+        },
+        {
+            "displayName": "espnfan5382939783",
+            "id": "{97107717-3060-4CAA-B061-EE0AC330C634}",
+            "isLeagueManager": false
+        },
+        {
+            "displayName": "ESPNfan6636257426",
+            "id": "{A8F61661-EABD-4BCF-BF80-0A06F6E0C1FA}",
+            "isLeagueManager": false
+        },
+        {
+            "displayName": "ESPNFAN4845332233",
+            "id": "{BEA05858-99B1-4B7D-99F4-163958C620A8}",
+            "isLeagueManager": false
+        },
+        {
+            "displayName": "ESPNfan5181402610",
+            "id": "{E033D0A7-23B9-4D0B-A731-ACC2B4C8A7A4}",
+            "isLeagueManager": false
+        },
+        {
+            "displayName": "ESPNFAN8465621163",
+            "id": "{E7463B69-3858-4180-A79B-985B13C28C8E}",
+            "isLeagueManager": false
+        },
+        {
+            "displayName": "ESPNfan4731240631",
+            "id": "{FEECFB2A-CD8E-4EF7-809C-B4987DCF30E8}",
+            "isLeagueManager": false
+        }
+    ],
+    "scoringPeriodId": 18,
+    "seasonId": 2025,
+    "segmentId": 0,
+    "settings": {
+        "name": "mtcfb"
+    },
+    "status": {
+        "currentMatchupPeriod": 17,
+        "isActive": true,
+        "latestScoringPeriod": 18
+    },
+    "teams": [
+        {
+            "abbrev": "$$$",
+            "id": 1,
+            "owners": [
+                "{8E29E542-0973-4071-BA75-43BF0D537085}"
+            ]
+        },
+        {
+            "abbrev": "DAL",
+            "id": 2,
+            "owners": [
+                "{97107717-3060-4CAA-B061-EE0AC330C634}"
+            ]
+        },
+        {
+            "abbrev": "SHT",
+            "id": 3,
+            "owners": [
+                "{FEECFB2A-CD8E-4EF7-809C-B4987DCF30E8}"
+            ]
+        },
+        {
+            "abbrev": "AMAT",
+            "id": 4,
+            "owners": [
+                "{5A488620-01B4-4CF3-B5BB-96C4FD37DED9}"
+            ]
+        },
+        {
+            "abbrev": "KPK",
+            "id": 5,
+            "owners": [
+                "{8E66E33A-49CE-4CD7-A2E9-DF31477E6045}"
+            ]
+        },
+        {
+            "abbrev": "1",
+            "id": 6,
+            "owners": [
+                "{5CD97C45-69A1-43FE-996D-C3528E0C564D}"
+            ]
+        },
+        {
+            "abbrev": "win",
+            "id": 7,
+            "owners": [
+                "{E7463B69-3858-4180-A79B-985B13C28C8E}"
+            ]
+        },
+        {
+            "abbrev": "$$$",
+            "id": 8,
+            "owners": [
+                "{E033D0A7-23B9-4D0B-A731-ACC2B4C8A7A4}"
+            ]
+        },
+        {
+            "abbrev": "DDT",
+            "id": 9,
+            "owners": [
+                "{7805A62E-2B25-45D7-B2E2-BE9D0CAAF8CB}"
+            ]
+        },
+        {
+            "abbrev": "NOA",
+            "id": 10,
+            "owners": [
+                "{1F7B1B18-9CAB-4BEA-8FFB-B17A80FE157C}"
+            ]
+        },
+        {
+            "abbrev": "\ud83d\udc10",
+            "id": 11,
+            "owners": [
+                "{A8F61661-EABD-4BCF-BF80-0A06F6E0C1FA}"
+            ]
+        },
+        {
+            "abbrev": "FYC",
+            "id": 12,
+            "owners": [
+                "{BEA05858-99B1-4B7D-99F4-163958C620A8}"
+            ]
+        }
+    ]
+}
